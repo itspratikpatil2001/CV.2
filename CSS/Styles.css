@@ -1,0 +1,21 @@
+body{
+    background-color: #F3EFE0;
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-color: #009EFF;
+        border-width: 10px;
+        width: 8%;
+    }
+    img{
+        height: 150px;
+    }
+    h1{
+        font-style: italic;
+        color: #66BFBF;
+    }
+    h3{
+        font-style:oblique;
+        color: #66BFBF;
+    }
